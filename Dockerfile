@@ -27,6 +27,7 @@ RUN apt-get update && apt-get install -y \
     libdate-manip-perl \
     libdatetime-format-natural-perl \
     libdbd-sqlite3-perl \
+    libdbd-mysql-perl \
     libdbix-searchbuilder-perl \
     libdevel-globaldestruction-perl \
     libemail-address-list-perl \
